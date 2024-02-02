@@ -2,7 +2,7 @@
 ## Framework for Automated Testing of Distributed Systems
 ### Version 5.0
 
-**Note, BizUnit help may also be found on [MSDN](https://msdn.microsoft.com/en-us/library/cc594538(v=bts.10).aspx).**
+**Note, BizUnit help may also be found on [MSDN](https://learn.microsoft.com/en-us/biztalk/technical-guides/using-bizunit-to-facilitate-automated-testing).**
 
 Version 5 no longer has the legacy XML test step format, instead all serialised tests use the XAML.
 
